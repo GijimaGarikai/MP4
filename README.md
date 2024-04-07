@@ -1,6 +1,7 @@
 # AssociativeArray Package
 ## Author
 **Garikai Gijima**
+
 The `AssociativeArray` class provided in this package offers a flexible and dynamic implementation of an associative array in Java. Associative arrays, also known as maps or dictionaries, store key-value pairs and provide efficient (not in this case but usually) retrieval and modification operations based on the keys.
 
 ## Overview
